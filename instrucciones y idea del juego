@@ -1,0 +1,9 @@
+La idea del juego es simple, escapar del dungeon recogiendo las llaves distribuidas por cada seccion y ir avanzando, obviamente es una version muy reducida de lo que va a ser el juego final.
+Los movimientos son con W y S para avanzar y retroceder y A D para rotar el personaje sobre si mismo
+lo que me gustaria agregar para el juego final serian:
+un total de 5 a 7 zonas cada una mas dificil que la otra
+un tiempo determinado para cada zona en el que si te pasas perdes vida cada tanto tiempo
+mas variedad de trampas
+un enemigo que a partir de la segunda zona empiece a buscarte y si te atrapa te mata instantaniamente
+que en la pantalla aparesca las vidas y llaves que uno tiene
+animaciones de muerte y una animacion de que cuanto menos vida tenes el personaje parezca mas cansado y herido
